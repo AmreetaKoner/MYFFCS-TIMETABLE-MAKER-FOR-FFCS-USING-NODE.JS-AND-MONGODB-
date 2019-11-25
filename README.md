@@ -1,1 +1,2 @@
 # MYFFCS-TIMETABLE-MAKER-FOR-FFCS-USING-NODE.JS-AND-MONGODB-
+FFCS is a time where students of VIT have to make their own timetable by selecting suitable subjects and teachers that they want. MYFFCS is a platform where children will be able to select teachers and courses and make their own mock timetables for their aid during course registration. This system has a login both native and using open authentication so that the users will be able to carry the timetable that they made anywhere and across all devices.  
